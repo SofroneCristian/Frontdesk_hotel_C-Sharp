@@ -1,0 +1,16 @@
+C:\Users\ASUS\source\repos\Proiect hotel management\Proiect hotel management\obj\Debug\Proiect_hotel_management.Form1.resources
+C:\Users\ASUS\source\repos\Proiect hotel management\Proiect hotel management\obj\Debug\Proiect_hotel_management.FormPrinc.resources
+C:\Users\ASUS\source\repos\Proiect hotel management\Proiect hotel management\obj\Debug\Proiect_hotel_management.Properties.Resources.resources
+C:\Users\ASUS\source\repos\Proiect hotel management\Proiect hotel management\obj\Debug\Proiect hotel management.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\Proiect hotel management\Proiect hotel management\obj\Debug\Proiect hotel management.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Proiect hotel management\Proiect hotel management\bin\Debug\Hotelbd.mdf
+C:\Users\ASUS\source\repos\Proiect hotel management\Proiect hotel management\bin\Debug\Hotelbd_log.ldf
+C:\Users\ASUS\source\repos\Proiect hotel management\Proiect hotel management\bin\Debug\Proiect hotel management.exe.config
+C:\Users\ASUS\source\repos\Proiect hotel management\Proiect hotel management\bin\Debug\Proiect hotel management.exe
+C:\Users\ASUS\source\repos\Proiect hotel management\Proiect hotel management\bin\Debug\Proiect hotel management.pdb
+C:\Users\ASUS\source\repos\Proiect hotel management\Proiect hotel management\obj\Debug\Proiect hotel management.exe
+C:\Users\ASUS\source\repos\Proiect hotel management\Proiect hotel management\obj\Debug\Proiect hotel management.pdb
+C:\Users\ASUS\source\repos\Proiect hotel management\Proiect hotel management\obj\Debug\Proiect_hotel_management.InfoClient.resources
+C:\Users\ASUS\source\repos\Proiect hotel management\Proiect hotel management\obj\Debug\Proiect_hotel_management.InfoAngajati.resources
+C:\Users\ASUS\source\repos\Proiect hotel management\Proiect hotel management\obj\Debug\Proiect_hotel_management.InfoCamere.resources
+C:\Users\ASUS\source\repos\Proiect hotel management\Proiect hotel management\obj\Debug\Proiect_hotel_management.InfoRezervare.resources
